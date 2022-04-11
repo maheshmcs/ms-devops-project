@@ -2,3 +2,5 @@ Jenkins
 Git
 Docker
 Ansible
+Python
+Java
